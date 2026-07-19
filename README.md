@@ -1,22 +1,18 @@
 # Hi, I'm Samson Olanipekun 👋
+Mechatronics Engineer building Cloud & DevOps infrastructure — AWS, Kubernetes, Terraform, Docker.
 
-DevOps engineer/ Cloud Engineer| Building cloud infrastructure 
+## 🔧 Stack
+AWS · Terraform · Kubernetes · Docker · GitHub Actions · ArgoCD · Prometheus/Grafana · Linux · Python · Bash
 
-## 🔧 Stack I'm working with
-Docker · GitHub Actions · AWS · Terraform · Kubernetes · Linux · Python · Bash
+## 🚀 What I've built
+- Fleet Management Platform — GitOps on Kubernetes (ArgoCD, Helm, PR-gated CI/CD)
+- AWS infrastructure via Terraform & CLI — custom VPC, ALB + Auto Scaling, S3/CloudFront
+- EKS deployment with IRSA, ALB Ingress, EBS CSI driver
+- Helix Automates — self-hosted business automation (n8n, Docker, AI workflows)
 
-## 🚀 What I'm building
-Hands-on DevOps projects — CI/CD pipelines, containerised apps, AWS infrastructure.
-Everything I build is public. No hidden repos.
-
-## 📌 Currently learning
-- Kubernetes (working through Minikube + kubectl fundamentals)
-- Terraform (provisioning AWS infrastructure as code)
-- DevSecOps (Snyk, Trivy, GitLeaks in CI pipelines)
-
-## 📂 Projects
-
+## 📌 Currently working toward
+AWS Solutions Architect Associate (SAA-C03) → DevOps Engineer Professional → Terraform Associate → CKA
 
 ## 🤝 Let's connect
 LinkedIn: linkedin.com/in/samson-olanipekun-devops
-Open to: remote DevOps internships and junior roles · any time zone
+Open to: Cloud/DevOps roles, freelance automation projects, graduate technical programmes
